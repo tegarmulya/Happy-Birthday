@@ -27,8 +27,8 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Irene",
-  photo: "./img/irene.jpg",       // Place your photo in the img/ folder
+  name: "Tegar",
+  photo: "./img/tegar.jpg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
@@ -55,7 +55,7 @@ const CONFIG = {
   sections: [
     {
       type: "greeting",
-      title: "Hi",
+      title: "Hi🙌",
       subtitle: "I really like your name btw!",
     },
     {
@@ -70,15 +70,15 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
+        "Happy birthday to youu!! Jangan lupa makan-makan nya yaaw mwehehe",
       buttonText: "Send",
     },
     {
       type: "ideas",
       lines: [
-        "That's what I was going to do.",
-        "But then I stopped.",
-        "I realised, I wanted to do something <strong>special</strong>.",
+        "Sorry yaa, aku belum bisa ngasih apa-apa :)",
+        "Tapi tenang, aku ada sesuatu nih buat kamu",
+        "pokoknya sesuatu yang <strong>special</strong>.",
         "Because,",
         "You are Special <span>:)</span>",
       ],
@@ -86,8 +86,8 @@ const CONFIG = {
     },
     {
       type: "quote",
-      text: "The more you praise and celebrate your life, the more there is in life to celebrate.",
-      author: "Oprah Winfrey",
+      text: "Selamat ulang tahun sayangku!! semoga hari ini kamu selalu bahagia..sampai besok dan sampai kapanpun, selamanya sama aku",
+      author: "anomali",
     },
     {
       type: "stars",
@@ -95,12 +95,12 @@ const CONFIG = {
     },
     {
       type: "balloons",
-      count: 25,
+      count: 15,
     },
     {
       type: "profile",
       wishTitle: "Happy Birthday!",
-      wishText: "May the js.prototypes always be with you! ;)",
+      wishText: "Semoga semua wishlist bisa tercapai! ;)",
     },
     {
       type: "fireworks",
@@ -112,7 +112,7 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Okay, now come back and tell me if you liked it.",
+      text: "Okay, kalo kamu suka, kasih tau aku ya.",
       replayText: "Or click, if you want to watch it again.",
     },
   ],
