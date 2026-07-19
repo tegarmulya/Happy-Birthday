@@ -27,8 +27,8 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Tegar",
-  photo: "./img/tegar.jpg",       // Place your photo in the img/ folder
+  name: "NANA",
+  photo: "./img/nana.jpg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
@@ -56,7 +56,7 @@ const CONFIG = {
     {
       type: "greeting",
       title: "Hi🙌",
-      subtitle: "I really like your name btw!",
+      subtitle: "Nama yang sangat bagus, btw!",
     },
     {
       type: "countdown",
@@ -70,24 +70,24 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Jangan lupa makan-makan nya yaaw mwehehe",
+        "Happy birthday kak nanaaa!! Jangan lupa traktiran robux nya yaaw mwehehe",
       buttonText: "Send",
     },
     {
       type: "ideas",
       lines: [
-        "Sorry yaa, aku belum bisa ngasih apa-apa :)",
-        "Tapi tenang, aku ada sesuatu nih buat kamu",
-        "pokoknya sesuatu yang <strong>special</strong>.",
+        "Sorry yaa, kita belum bisa ngasih apa-apa :)",
+        "Tapi jangan berkecil hati.",
+        "Kak nana adalah teman yang sangat berharga buat kita semua.",
         "Because,",
-        "You are Special <span>:)</span>",
+        "Kak Nana are Special <span>:)</span>",
       ],
       bigLetters: "SO",
     },
     {
       type: "quote",
-      text: "Selamat ulang tahun sayangku!! semoga hari ini kamu selalu bahagia..sampai besok dan sampai kapanpun, selamanya sama aku",
-      author: "anomali",
+      text: "Selamat ulang tahun kak nanaa!! panjang umur, sehat selalu, semoga cepat diberi momongan, dan semoga semua yang di semogakan, tersemogakan",
+      author: "sky",
     },
     {
       type: "stars",
@@ -112,7 +112,7 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Okay, kalo kamu suka, kasih tau aku ya.",
+      text: "Okay, kalo bagus, kasih tau aku ya.",
       replayText: "Or click, if you want to watch it again.",
     },
   ],
